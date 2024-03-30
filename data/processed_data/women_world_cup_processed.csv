@@ -1,0 +1,201 @@
+Unnamed: 0,date,home_team,away_team,home_score,away_score,tournament,total_goals
+1600,2003-09-20,Nigeria,North Korea,0,3,FIFA World Cup,3
+1601,2003-09-20,Norway,France,2,0,FIFA World Cup,2
+1602,2003-09-20,Germany,Canada,4,1,FIFA World Cup,5
+1603,2003-09-20,Japan,Argentina,6,0,FIFA World Cup,6
+1604,2003-09-21,United States,Sweden,3,1,FIFA World Cup,4
+1605,2003-09-21,Brazil,South Korea,3,0,FIFA World Cup,3
+1606,2003-09-21,Australia,Russia,1,2,FIFA World Cup,3
+1607,2003-09-21,China PR,Ghana,1,0,FIFA World Cup,1
+1609,2003-09-24,Norway,Brazil,1,4,FIFA World Cup,5
+1610,2003-09-24,France,South Korea,1,0,FIFA World Cup,1
+1611,2003-09-24,Germany,Japan,3,0,FIFA World Cup,3
+1612,2003-09-24,Canada,Argentina,3,0,FIFA World Cup,3
+1613,2003-09-25,Sweden,North Korea,1,0,FIFA World Cup,1
+1614,2003-09-25,United States,Nigeria,5,0,FIFA World Cup,5
+1615,2003-09-25,Ghana,Russia,0,3,FIFA World Cup,3
+1616,2003-09-25,China PR,Australia,1,1,FIFA World Cup,2
+1620,2003-09-27,South Korea,Norway,1,7,FIFA World Cup,8
+1621,2003-09-27,France,Brazil,1,1,FIFA World Cup,2
+1622,2003-09-27,Canada,Japan,3,1,FIFA World Cup,4
+1623,2003-09-27,Argentina,Germany,1,6,FIFA World Cup,7
+1625,2003-09-28,Sweden,Nigeria,3,0,FIFA World Cup,3
+1626,2003-09-28,United States,North Korea,3,0,FIFA World Cup,3
+1627,2003-09-28,Ghana,Australia,2,1,FIFA World Cup,3
+1628,2003-09-28,China PR,Russia,1,0,FIFA World Cup,1
+1629,2003-10-01,Brazil,Sweden,1,2,FIFA World Cup,3
+1630,2003-10-01,United States,Norway,1,0,FIFA World Cup,1
+1631,2003-10-02,Germany,Russia,7,1,FIFA World Cup,8
+1632,2003-10-02,China PR,Canada,0,1,FIFA World Cup,1
+1634,2003-10-05,United States,Germany,0,3,FIFA World Cup,3
+1635,2003-10-05,Sweden,Canada,2,1,FIFA World Cup,3
+1636,2003-10-11,United States,Canada,3,1,FIFA World Cup,4
+1638,2003-10-12,Germany,Sweden,2,1,FIFA World Cup,3
+2138,2007-09-10,Germany,Argentina,11,0,FIFA World Cup,11
+2139,2007-09-11,Japan,England,2,2,FIFA World Cup,4
+2140,2007-09-11,United States,North Korea,2,2,FIFA World Cup,4
+2141,2007-09-11,Nigeria,Sweden,1,1,FIFA World Cup,2
+2142,2007-09-12,Ghana,Australia,1,4,FIFA World Cup,5
+2143,2007-09-12,Norway,Canada,2,1,FIFA World Cup,3
+2144,2007-09-12,New Zealand,Brazil,0,5,FIFA World Cup,5
+2145,2007-09-12,China PR,Denmark,3,2,FIFA World Cup,5
+2146,2007-09-14,Argentina,Japan,0,1,FIFA World Cup,1
+2147,2007-09-14,England,Germany,0,0,FIFA World Cup,0
+2148,2007-09-14,Sweden,United States,0,2,FIFA World Cup,2
+2149,2007-09-14,North Korea,Nigeria,2,0,FIFA World Cup,2
+2150,2007-09-15,Canada,Ghana,4,0,FIFA World Cup,4
+2151,2007-09-15,Australia,Norway,1,1,FIFA World Cup,2
+2152,2007-09-15,Denmark,New Zealand,2,0,FIFA World Cup,2
+2153,2007-09-15,China PR,Brazil,0,4,FIFA World Cup,4
+2154,2007-09-17,Germany,Japan,2,0,FIFA World Cup,2
+2155,2007-09-17,England,Argentina,6,1,FIFA World Cup,7
+2156,2007-09-18,Nigeria,United States,0,1,FIFA World Cup,1
+2157,2007-09-18,North Korea,Sweden,1,2,FIFA World Cup,3
+2158,2007-09-20,Norway,Ghana,7,2,FIFA World Cup,9
+2159,2007-09-20,Australia,Canada,2,2,FIFA World Cup,4
+2160,2007-09-20,China PR,New Zealand,2,0,FIFA World Cup,2
+2161,2007-09-20,Brazil,Denmark,1,0,FIFA World Cup,1
+2162,2007-09-22,Germany,North Korea,3,0,FIFA World Cup,3
+2163,2007-09-22,United States,England,3,0,FIFA World Cup,3
+2164,2007-09-23,China PR,Norway,0,1,FIFA World Cup,1
+2165,2007-09-23,Brazil,Australia,3,2,FIFA World Cup,5
+2166,2007-09-26,Germany,Norway,3,0,FIFA World Cup,3
+2167,2007-09-27,United States,Brazil,0,4,FIFA World Cup,4
+2168,2007-09-30,Norway,United States,1,4,FIFA World Cup,5
+2169,2007-09-30,Germany,Brazil,2,0,FIFA World Cup,2
+2725,2011-06-26,Nigeria,France,0,1,FIFA World Cup,1
+2726,2011-06-26,Germany,Canada,2,1,FIFA World Cup,3
+2727,2011-06-27,Japan,New Zealand,2,1,FIFA World Cup,3
+2728,2011-06-27,Mexico,England,1,1,FIFA World Cup,2
+2729,2011-06-28,Colombia,Sweden,0,1,FIFA World Cup,1
+2730,2011-06-28,United States,North Korea,2,0,FIFA World Cup,2
+2731,2011-06-29,Norway,Equatorial Guinea,1,0,FIFA World Cup,1
+2732,2011-06-29,Brazil,Australia,1,0,FIFA World Cup,1
+2733,2011-06-30,Canada,France,0,4,FIFA World Cup,4
+2734,2011-06-30,Germany,Nigeria,1,0,FIFA World Cup,1
+2735,2011-07-01,Japan,Mexico,4,0,FIFA World Cup,4
+2736,2011-07-01,New Zealand,England,1,2,FIFA World Cup,3
+2737,2011-07-02,North Korea,Sweden,0,1,FIFA World Cup,1
+2738,2011-07-02,United States,Colombia,3,0,FIFA World Cup,3
+2739,2011-07-03,Australia,Equatorial Guinea,3,2,FIFA World Cup,5
+2740,2011-07-03,Brazil,Norway,3,0,FIFA World Cup,3
+2741,2011-07-05,Germany,France,4,2,FIFA World Cup,6
+2742,2011-07-05,Canada,Nigeria,0,1,FIFA World Cup,1
+2743,2011-07-05,England,Japan,2,0,FIFA World Cup,2
+2744,2011-07-05,New Zealand,Mexico,2,2,FIFA World Cup,4
+2745,2011-07-06,Sweden,United States,2,1,FIFA World Cup,3
+2746,2011-07-06,North Korea,Colombia,0,0,FIFA World Cup,0
+2747,2011-07-06,Equatorial Guinea,Brazil,0,3,FIFA World Cup,3
+2748,2011-07-06,Australia,Norway,2,1,FIFA World Cup,3
+2749,2011-07-09,England,France,1,1,FIFA World Cup,2
+2750,2011-07-09,Germany,Japan,0,1,FIFA World Cup,1
+2751,2011-07-10,Sweden,Australia,3,1,FIFA World Cup,4
+2752,2011-07-10,Brazil,United States,2,2,FIFA World Cup,4
+2753,2011-07-13,France,United States,1,3,FIFA World Cup,4
+2754,2011-07-13,Japan,Sweden,3,1,FIFA World Cup,4
+2755,2011-07-16,Sweden,France,2,1,FIFA World Cup,3
+2756,2011-07-17,Japan,United States,2,2,FIFA World Cup,4
+3426,2015-06-06,Canada,China PR,1,0,FIFA World Cup,1
+3427,2015-06-06,New Zealand,Netherlands,0,1,FIFA World Cup,1
+3428,2015-06-07,Norway,Thailand,4,0,FIFA World Cup,4
+3429,2015-06-07,Germany,Ivory Coast,10,0,FIFA World Cup,10
+3430,2015-06-08,Cameroon,Ecuador,6,0,FIFA World Cup,6
+3431,2015-06-08,Japan,Switzerland,1,0,FIFA World Cup,1
+3432,2015-06-08,Sweden,Nigeria,3,3,FIFA World Cup,6
+3433,2015-06-08,United States,Australia,3,1,FIFA World Cup,4
+3434,2015-06-09,Spain,Costa Rica,1,1,FIFA World Cup,2
+3435,2015-06-09,Brazil,South Korea,2,0,FIFA World Cup,2
+3436,2015-06-09,France,England,1,0,FIFA World Cup,1
+3437,2015-06-09,Colombia,Mexico,1,1,FIFA World Cup,2
+3438,2015-06-11,China PR,Netherlands,1,0,FIFA World Cup,1
+3439,2015-06-11,Canada,New Zealand,0,0,FIFA World Cup,0
+3440,2015-06-11,Germany,Norway,1,1,FIFA World Cup,2
+3441,2015-06-11,Ivory Coast,Thailand,2,3,FIFA World Cup,5
+3442,2015-06-12,Switzerland,Ecuador,10,1,FIFA World Cup,11
+3443,2015-06-12,Japan,Cameroon,2,1,FIFA World Cup,3
+3444,2015-06-12,Australia,Nigeria,2,0,FIFA World Cup,2
+3445,2015-06-12,United States,Sweden,0,0,FIFA World Cup,0
+3446,2015-06-13,Brazil,Spain,1,0,FIFA World Cup,1
+3447,2015-06-13,South Korea,Costa Rica,2,2,FIFA World Cup,4
+3448,2015-06-13,France,Colombia,0,2,FIFA World Cup,2
+3449,2015-06-13,England,Mexico,2,1,FIFA World Cup,3
+3450,2015-06-15,Canada,Netherlands,1,1,FIFA World Cup,2
+3451,2015-06-15,China PR,New Zealand,2,2,FIFA World Cup,4
+3452,2015-06-15,Thailand,Germany,0,4,FIFA World Cup,4
+3453,2015-06-15,Ivory Coast,Norway,1,3,FIFA World Cup,4
+3454,2015-06-16,Ecuador,Japan,0,1,FIFA World Cup,1
+3455,2015-06-16,Switzerland,Cameroon,1,2,FIFA World Cup,3
+3456,2015-06-16,Nigeria,United States,0,1,FIFA World Cup,1
+3457,2015-06-16,Australia,Sweden,1,1,FIFA World Cup,2
+3458,2015-06-17,Costa Rica,Brazil,0,1,FIFA World Cup,1
+3459,2015-06-17,South Korea,Spain,2,1,FIFA World Cup,3
+3460,2015-06-17,Mexico,France,0,5,FIFA World Cup,5
+3461,2015-06-17,England,Colombia,2,1,FIFA World Cup,3
+3462,2015-06-20,Germany,Sweden,4,1,FIFA World Cup,5
+3463,2015-06-20,China PR,Cameroon,1,0,FIFA World Cup,1
+3464,2015-06-21,Brazil,Australia,0,1,FIFA World Cup,1
+3465,2015-06-21,France,South Korea,3,0,FIFA World Cup,3
+3466,2015-06-21,Canada,Switzerland,1,0,FIFA World Cup,1
+3467,2015-06-22,Norway,England,1,2,FIFA World Cup,3
+3468,2015-06-22,United States,Colombia,2,0,FIFA World Cup,2
+3469,2015-06-23,Japan,Netherlands,2,1,FIFA World Cup,3
+3470,2015-06-26,Germany,France,1,1,FIFA World Cup,2
+3471,2015-06-26,China PR,United States,0,1,FIFA World Cup,1
+3472,2015-06-27,Australia,Japan,0,1,FIFA World Cup,1
+3473,2015-06-27,Canada,England,1,2,FIFA World Cup,3
+3474,2015-06-30,United States,Germany,2,0,FIFA World Cup,2
+3475,2015-07-01,Japan,England,2,1,FIFA World Cup,3
+3476,2015-07-04,Germany,England,0,1,FIFA World Cup,1
+3477,2015-07-05,United States,Japan,5,2,FIFA World Cup,7
+4417,2019-06-07,France,South Korea,4,0,FIFA World Cup,4
+4418,2019-06-08,Norway,Nigeria,3,0,FIFA World Cup,3
+4419,2019-06-08,Germany,China PR,1,0,FIFA World Cup,1
+4420,2019-06-08,Spain,South Africa,3,1,FIFA World Cup,4
+4421,2019-06-09,Australia,Italy,1,2,FIFA World Cup,3
+4422,2019-06-09,Brazil,Jamaica,3,0,FIFA World Cup,3
+4423,2019-06-09,England,Scotland,2,1,FIFA World Cup,3
+4424,2019-06-10,Argentina,Japan,0,0,FIFA World Cup,0
+4425,2019-06-10,Canada,Cameroon,1,0,FIFA World Cup,1
+4426,2019-06-11,New Zealand,Netherlands,0,1,FIFA World Cup,1
+4427,2019-06-11,Chile,Sweden,0,2,FIFA World Cup,2
+4428,2019-06-11,United States,Thailand,13,0,FIFA World Cup,13
+4429,2019-06-12,Nigeria,South Korea,2,0,FIFA World Cup,2
+4430,2019-06-12,France,Norway,2,1,FIFA World Cup,3
+4431,2019-06-12,Germany,Spain,1,0,FIFA World Cup,1
+4432,2019-06-13,South Africa,China PR,0,1,FIFA World Cup,1
+4433,2019-06-13,Australia,Brazil,3,2,FIFA World Cup,5
+4434,2019-06-14,Jamaica,Italy,0,5,FIFA World Cup,5
+4435,2019-06-14,Japan,Scotland,2,1,FIFA World Cup,3
+4436,2019-06-14,England,Argentina,1,0,FIFA World Cup,1
+4437,2019-06-15,Netherlands,Cameroon,3,1,FIFA World Cup,4
+4438,2019-06-15,Canada,New Zealand,2,0,FIFA World Cup,2
+4439,2019-06-16,Sweden,Thailand,5,1,FIFA World Cup,6
+4440,2019-06-16,United States,Chile,3,0,FIFA World Cup,3
+4441,2019-06-17,France,Nigeria,1,0,FIFA World Cup,1
+4442,2019-06-17,South Korea,Norway,1,2,FIFA World Cup,3
+4443,2019-06-17,South Africa,Germany,0,4,FIFA World Cup,4
+4444,2019-06-17,China PR,Spain,0,0,FIFA World Cup,0
+4445,2019-06-18,Jamaica,Australia,1,4,FIFA World Cup,5
+4446,2019-06-18,Italy,Brazil,0,1,FIFA World Cup,1
+4447,2019-06-19,Japan,England,0,2,FIFA World Cup,2
+4448,2019-06-19,Scotland,Argentina,3,3,FIFA World Cup,6
+4449,2019-06-20,Netherlands,Canada,2,1,FIFA World Cup,3
+4450,2019-06-20,Cameroon,New Zealand,2,1,FIFA World Cup,3
+4451,2019-06-20,Sweden,United States,0,2,FIFA World Cup,2
+4452,2019-06-20,Thailand,Chile,0,2,FIFA World Cup,2
+4454,2019-06-22,Germany,Nigeria,3,0,FIFA World Cup,3
+4455,2019-06-22,Norway,Australia,1,1,FIFA World Cup,2
+4456,2019-06-23,England,Cameroon,3,0,FIFA World Cup,3
+4457,2019-06-23,France,Brazil,2,1,FIFA World Cup,3
+4458,2019-06-24,Spain,United States,1,2,FIFA World Cup,3
+4459,2019-06-24,Sweden,Canada,1,0,FIFA World Cup,1
+4460,2019-06-25,Italy,China PR,2,0,FIFA World Cup,2
+4461,2019-06-25,Netherlands,Japan,2,1,FIFA World Cup,3
+4462,2019-06-27,Norway,England,0,3,FIFA World Cup,3
+4463,2019-06-28,France,United States,1,2,FIFA World Cup,3
+4464,2019-06-29,Italy,Netherlands,0,2,FIFA World Cup,2
+4465,2019-06-29,Germany,Sweden,1,2,FIFA World Cup,3
+4466,2019-07-02,England,United States,1,2,FIFA World Cup,3
+4467,2019-07-03,Netherlands,Sweden,1,0,FIFA World Cup,1
+4468,2019-07-06,England,Sweden,1,2,FIFA World Cup,3
+4469,2019-07-07,United States,Netherlands,2,0,FIFA World Cup,2
